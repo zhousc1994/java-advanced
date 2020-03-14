@@ -10,4 +10,5 @@ public @interface MyAnnotation {
     String value();
 
     int sex() default 1;// 0男1女
+
 }
